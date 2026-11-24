@@ -1,0 +1,19 @@
+/opt/linux-lab
+├── common
+│   └── announcements.txt
+├── team1
+│   ├── projects
+│   │   ├── project1.txt
+│   │   └── sachintext.txt
+│   ├── reports
+│   └── scripts
+└── team2
+    ├── projects
+    │   ├── project1.txt
+    │   ├── project2.txt
+    │   ├── rohit-test.txt
+    │   └── rohittext.txt
+    ├── reports
+    └── scripts
+
+10 directories, 7 files

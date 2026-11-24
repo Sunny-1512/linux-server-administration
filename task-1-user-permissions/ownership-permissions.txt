@@ -1,0 +1,45 @@
+/opt/linux-lab:
+total 12
+drwxr-xr-x 2 root root  4096 Nov 23 16:08 common
+drwxrwx--- 5 root team1 4096 Nov 23 13:23 team1
+drwxrwx--- 5 root team2 4096 Nov 23 13:23 team2
+
+/opt/linux-lab/common:
+total 4
+-rw-r--r-- 1 root root 44 Nov 23 16:09 announcements.txt
+
+/opt/linux-lab/team1:
+total 12
+drwxrwx--- 2 root team1 4096 Nov 24 09:12 projects
+drwxrwx--- 2 root team1 4096 Nov 23 13:23 reports
+drwxrwx--- 2 root team1 4096 Nov 23 13:23 scripts
+
+/opt/linux-lab/team1/projects:
+total 4
+-rw-rw---- 1 root   team1  103 Nov 24 06:56 project1.txt
+-rw-r--r-- 1 Sachin Sachin   0 Nov 24 09:14 sachintext.txt
+
+/opt/linux-lab/team1/reports:
+total 0
+
+/opt/linux-lab/team1/scripts:
+total 0
+
+/opt/linux-lab/team2:
+total 12
+drwxrwx--- 2 root team2 4096 Nov 24 09:16 projects
+drwxrwx--- 2 root team2 4096 Nov 23 13:23 reports
+drwxrwx--- 2 root team2 4096 Nov 23 13:23 scripts
+
+/opt/linux-lab/team2/projects:
+total 8
+-rw-rw---- 1 root  team2 42 Nov 24 06:58 project1.txt
+-rw-rw---- 1 root  team2 72 Nov 24 07:03 project2.txt
+-rw-r--r-- 1 Rohit Rohit  0 Nov 24 09:16 rohit-test.txt
+-rw-r--r-- 1 Rohit Rohit  0 Nov 24 08:56 rohittext.txt
+
+/opt/linux-lab/team2/reports:
+total 0
+
+/opt/linux-lab/team2/scripts:
+total 0
